@@ -1,5 +1,7 @@
 #Terminal Emulator for Android
 
+[![Join the chat at https://gitter.im/erichilarysmithsr/Android-Terminal-Emulator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/erichilarysmithsr/Android-Terminal-Emulator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Terminal Emulator for Android is a terminal emulator for communicating with the
 built-in Android shell. It emulates a reasonably large subset of Digital
 Equipment Corporation VT-100 terminal codes, so that programs like "vi", "Emacs"
